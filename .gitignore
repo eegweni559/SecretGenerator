@@ -1,0 +1,18 @@
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+**/[O|o]bj/*
+**/[B|b]in/*
+**/.DS_Store
+.idea
+**/coverage/
+**/CurrentCommit.txt
+**/build
+**/appsettings.*.json
+makefile.local
+.sonarqube
